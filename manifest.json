@@ -1,0 +1,124 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "manifest_version": 3,
+  "name": "KyberGate \u2014 K-12 Web Filter",
+  "short_name": "KyberGate",
+  "version": "2.57.0",
+  "incognito": "spanning",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://chatgpt.com/*",
+        "*://chat.openai.com/*",
+        "*://claude.ai/*",
+        "*://gemini.google.com/*",
+        "*://perplexity.ai/*",
+        "*://chat.deepseek.com/*",
+        "*://copilot.microsoft.com/*",
+        "*://meta.ai/*",
+        "*://grok.x.ai/*",
+        "*://x.ai/*",
+        "*://poe.com/*",
+        "*://you.com/*",
+        "*://huggingface.co/*",
+        "*://chat.mistral.ai/*",
+        "*://pi.ai/*",
+        "*://character.ai/*",
+        "*://www.character.ai/*",
+        "*://aistudio.google.com/*",
+        "*://notebooklm.google.com/*",
+        "*://duck.ai/*",
+        "*://duckduckgo.com/*"
+      ],
+      "js": [
+        "ai-monitor.js"
+      ],
+      "run_at": "document_idle"
+    },
+    {
+      "matches": [
+        "*://*.youtube.com/*",
+        "*://*.google.com/*",
+        "*://*.google.co.uk/*",
+        "*://*.google.co.in/*",
+        "*://*.google.co.jp/*",
+        "*://*.google.co.kr/*",
+        "*://*.google.co.il/*",
+        "*://*.google.co.za/*",
+        "*://*.google.co.nz/*",
+        "*://*.google.co.id/*",
+        "*://*.google.co.th/*"
+      ],
+      "js": [
+        "distraction-blocker.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": false
+    }
+  ],
+  "description": "K-12 web filtering and classroom management: blocks harmful content, enforces SafeSearch, and monitors student activity.",
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "webNavigation",
+    "storage",
+    "tabs",
+    "activeTab",
+    "alarms",
+    "scripting",
+    "notifications",
+    "identity",
+    "identity.email",
+    "geolocation",
+    "offscreen",
+    "proxy"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "static_blocks",
+        "enabled": true,
+        "path": "rules/static_blocks.json"
+      }
+    ]
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "blocked.html"
+      ],
+      "matches": [
+        "<all_urls>"
+      ]
+    }
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "KyberGate Web Filter"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "options_page": "options.html",
+  "storage": {
+    "managed_schema": "managed_schema.json"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  },
+  "minimum_chrome_version": "110"
+}

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Blocked — KyberGate</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      min-height: 100vh;
+      background: #FAF9F6;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      text-align: center;
+      max-width: 480px;
+      padding: 48px 32px;
+    }
+    .shield {
+      width: 88px;
+      height: 88px;
+      border-radius: 50%;
+      background: rgba(224,122,95,0.1);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto 24px;
+    }
+    .shield svg {
+      width: 40px;
+      height: 40px;
+    }
+    h1 {
+      font-size: 28px;
+      font-weight: 800;
+      color: #1A1A2A;
+      margin-bottom: 8px;
+    }
+    .subtitle {
+      font-size: 15px;
+      color: #6B7280;
+      margin-bottom: 32px;
+      line-height: 1.5;
+    }
+    .domain-badge {
+      display: inline-block;
+      background: white;
+      border: 1px solid #E8E6E1;
+      border-radius: 12px;
+      padding: 12px 24px;
+      margin-bottom: 12px;
+    }
+    .domain-badge .label {
+      font-size: 9px;
+      font-weight: 600;
+      color: #9CA3AF;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .domain-badge .domain {
+      font-size: 15px;
+      font-weight: 600;
+      color: #1A1A2A;
+      font-family: monospace;
+      margin-top: 2px;
+    }
+    .category-pill {
+      display: inline-block;
+      background: rgba(224,122,95,0.1);
+      color: #E07A5F;
+      font-size: 11px;
+      font-weight: 600;
+      padding: 4px 14px;
+      border-radius: 20px;
+      margin-bottom: 32px;
+    }
+    .actions {
+      margin-top: 16px;
+      display: flex;
+      gap: 8px;
+      justify-content: center;
+    }
+    .request-btn {
+      display: inline-block;
+      background: white;
+      border: 1px solid #E8E6E1;
+      color: #6B7280;
+      font-size: 13px;
+      font-weight: 500;
+      padding: 10px 24px;
+      border-radius: 12px;
+      cursor: pointer;
+      transition: all 0.2s;
+      text-decoration: none;
+    }
+    .request-btn:hover {
+      background: #F0EEEA;
+      border-color: #D1D5DB;
+    }
+    .request-btn.sent {
+      background: rgba(16,185,129,0.08);
+      border-color: rgba(16,185,129,0.3);
+      color: #10B981;
+      cursor: default;
+    }
+    .branding {
+      margin-top: 48px;
+      font-size: 11px;
+      color: #D1D5DB;
+    }
+    .branding a {
+      color: #E07A5F;
+      text-decoration: none;
+      opacity: 0.5;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="shield">
+      <svg viewBox="0 0 24 24" fill="none" stroke="#E07A5F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+        <line x1="4" y1="4" x2="20" y2="20"/>
+      </svg>
+    </div>
+
+    <h1>Site Blocked</h1>
+    <p class="subtitle">This site has been blocked by your school's web filter.</p>
+
+    <div class="domain-badge">
+      <div class="label">Blocked Domain</div>
+      <div class="domain" id="blockedDomain">Loading...</div>
+    </div>
+    <br>
+    <span class="category-pill" id="category">Loading...</span>
+
+    <div class="actions">
+      <button class="request-btn" id="goBackBtn" style="background:#F0EEEA">
+        ← Go Back
+      </button>
+      <button class="request-btn" id="requestBtn">
+        Request Access
+      </button>
+    </div>
+
+    <div class="branding">
+      Protected by <a href="https://kybergate.com" target="_blank">KyberGate</a>
+    </div>
+  </div>
+
+  <script src="blocked.js"></script>
+</body>
+</html>

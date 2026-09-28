@@ -1,0 +1,20 @@
+{
+  "type": "object",
+  "properties": {
+    "orgId": {
+      "title": "Organization ID",
+      "description": "The KyberGate organization ID for this device fleet. Get this from your KyberGate admin dashboard.",
+      "type": "string"
+    },
+    "deviceName": {
+      "title": "Device Name Prefix",
+      "description": "Optional prefix for auto-generated device names (e.g., 'Lab-PC')",
+      "type": "string"
+    },
+    "allowUnenroll": {
+      "title": "Allow Unenrollment",
+      "description": "If false, students cannot disconnect from KyberGate. Set to false for managed school devices.",
+      "type": "boolean"
+    }
+  }
+}
