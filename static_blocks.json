@@ -1,0 +1,2059 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=pornhub.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pornhub.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=xvideos.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xvideos.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=xhamster.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xhamster.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=xnxx.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xnxx.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=redtube.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||redtube.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=youporn.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||youporn.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=tube8.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tube8.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=spankbang.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||spankbang.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=eporner.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||eporner.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=beeg.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||beeg.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=tnaflix.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tnaflix.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=drtuber.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||drtuber.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=porntrex.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||porntrex.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=hqporner.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||hqporner.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=motherless.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||motherless.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=chaturbate.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||chaturbate.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=stripchat.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stripchat.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bongacams.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bongacams.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=myfreecams.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||myfreecams.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=livejasmin.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||livejasmin.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=cam4.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cam4.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=onlyfans.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||onlyfans.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=fansly.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fansly.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=manyvids.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||manyvids.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=clips4sale.com&category=adult-content"
+      }
+    },
+    "condition": {
+      "urlFilter": "||clips4sale.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1000,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=draftkings.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||draftkings.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1001,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=fanduel.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fanduel.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1002,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betmgm.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betmgm.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1003,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=caesars.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||caesars.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1004,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bet365.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bet365.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1005,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bovada.lv&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bovada.lv^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1006,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betonline.ag&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betonline.ag^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1007,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=mybookie.ag&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mybookie.ag^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1008,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=pokerstars.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pokerstars.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1009,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=888poker.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||888poker.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1010,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=wsop.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wsop.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1011,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=partypoker.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||partypoker.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1012,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betway.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betway.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1013,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=williamhill.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||williamhill.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1014,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=paddypower.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||paddypower.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1015,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=ladbrokes.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ladbrokes.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1016,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=coral.co.uk&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||coral.co.uk^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1017,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=unibet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||unibet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1018,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=pointsbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pointsbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1019,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bwin.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bwin.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1020,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betfair.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betfair.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1021,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=sportsbet.com.au&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sportsbet.com.au^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1022,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=stake.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||stake.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1023,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=rollbit.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rollbit.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1024,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=roobet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||roobet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1025,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=duelbits.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||duelbits.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1026,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=gamdom.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gamdom.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1027,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=csgoroll.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||csgoroll.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1028,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=primedice.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||primedice.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1029,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=fortunejack.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||fortunejack.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1030,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bitcasino.io&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bitcasino.io^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1031,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=cloudbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||cloudbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1032,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=casumo.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casumo.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1033,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=leovegas.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||leovegas.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1034,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=mrgreen.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mrgreen.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1035,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=rizk.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rizk.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1036,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betsson.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betsson.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1037,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=pinnacle.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||pinnacle.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1038,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=1xbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||1xbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1039,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=22bet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||22bet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1040,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=melbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||melbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1041,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=mostbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||mostbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1042,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=jackpotcity.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jackpotcity.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1043,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=spinpalace.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||spinpalace.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1044,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=royalvegas.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||royalvegas.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1045,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=rubyfortune.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rubyfortune.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1046,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=gamblingsite.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gamblingsite.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1047,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=casino.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casino.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1048,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=casino.org&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casino.org^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1049,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=slots.lv&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||slots.lv^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1050,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=ignitioncasino.eu&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||ignitioncasino.eu^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1051,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=slotocash.im&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||slotocash.im^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1052,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=coolcat-casino.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||coolcat-casino.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1053,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=planetwin365.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||planetwin365.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1054,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betfred.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betfred.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1055,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=skybet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||skybet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1056,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=sportingbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sportingbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1057,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=888casino.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||888casino.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1058,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=888sport.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||888sport.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1059,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betrivers.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betrivers.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1060,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=borgataonline.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||borgataonline.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1061,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=harrahscasino.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||harrahscasino.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1062,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=goldennuggetcasino.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||goldennuggetcasino.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1063,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=virginbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||virginbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1064,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=wynn.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wynn.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1065,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=wynnbet.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wynnbet.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1066,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=si.sportsbook.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||si.sportsbook.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1067,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=twinspires.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||twinspires.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1068,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=tvg.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||tvg.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1069,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=xbet.ag&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||xbet.ag^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1070,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=sportsbetting.ag&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||sportsbetting.ag^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1071,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bookmaker.eu&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bookmaker.eu^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1072,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betanysports.eu&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betanysports.eu^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1073,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=heritage.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||heritage.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1074,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=jazzsports.ag&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||jazzsports.ag^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1075,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betus.com.pa&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betus.com.pa^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1076,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=gtbets.eu&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gtbets.eu^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1077,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=vegasslotsonline.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vegasslotsonline.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1078,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=askgamblers.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||askgamblers.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1079,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=casinomeister.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casinomeister.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1080,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=wizardofodds.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||wizardofodds.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1081,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=casinotop10.net&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casinotop10.net^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1082,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=casinopedia.org&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||casinopedia.org^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1083,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=gambling.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||gambling.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1084,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=vegasinsider.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||vegasinsider.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1085,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=oddschecker.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||oddschecker.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1086,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=oddsshark.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||oddsshark.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1087,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=actionnetwork.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||actionnetwork.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1088,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=covers.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||covers.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1089,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=rotowire.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||rotowire.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1090,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=numberfire.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||numberfire.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1091,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=betql.co&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||betql.co^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1092,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=lineups.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||lineups.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1093,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=slotcatalog.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||slotcatalog.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1094,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=slottracker.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||slottracker.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  },
+  {
+    "id": 1095,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/blocked.html?domain=bigwinboard.com&category=gambling"
+      }
+    },
+    "condition": {
+      "urlFilter": "||bigwinboard.com^",
+      "resourceTypes": [
+        "main_frame",
+        "sub_frame"
+      ]
+    }
+  }
+]
